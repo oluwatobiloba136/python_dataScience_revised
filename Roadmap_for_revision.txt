@@ -1,5 +1,7 @@
 1. Learn git 
 1a. learn git 20 min --http://youtube.com/watch?v=Y9XZQO1n_7c
 1b. github desktop intro -- https://www.youtube.com/watch?v=77W2JSL7-r8
+1c. Becoming git pro - https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395?gi=ba145ce42b4b
 
 2. Python Basics revision - https://www.learnpython.org/
+
